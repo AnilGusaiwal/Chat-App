@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984982088676",
+    "project_id": "messagee-faf50",
+    "storage_bucket": "messagee-faf50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984982088676:android:d6dc4f01f848e171a8f5f1",
+        "android_client_info": {
+          "package_name": "com.example.messagee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984982088676-3h58i6mgl3tg47urb9hhl2gafklig5pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ_5UQqcWKq4_edhWjFTu7GDmvC9DUBYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984982088676-3h58i6mgl3tg47urb9hhl2gafklig5pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
